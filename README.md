@@ -13,7 +13,9 @@ Map Creation
 
 Map Scrolling
 
-Moving with WASD, Rotating with Mouse
+Moving with WASD
+
+Rotating with Mouse
 
 Mob Movement
 
