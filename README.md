@@ -1,5 +1,5 @@
 ## Title: MAS 2011
-### Author: Luke Kwon
+### By Luke Kwon
 
 ### Story: 
 You (The Player) are a student who imprudently
