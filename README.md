@@ -25,6 +25,8 @@ Night Mode
 Ending Conditions
 
 
+Click to watch video:
+
 [![영상보기](https://img.youtube.com/vi/uHcI5YHEdz0/0.jpg)](https://www.youtube.com/watch?v=uHcI5YHEdz0)
 
 
